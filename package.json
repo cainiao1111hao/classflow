@@ -1,0 +1,13 @@
+{
+  "name": "classflow",
+  "version": "1.0.0",
+  "private": true,
+  "description": "课序：零依赖、离线优先的课程任务与专注助手",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.cjs",
+    "test": "node --test",
+    "build": "node scripts/build.cjs"
+  },
+  "engines": { "node": ">=20" }
+}
